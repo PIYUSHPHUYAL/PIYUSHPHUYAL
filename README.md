@@ -29,7 +29,11 @@ All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL
 
 ### 💬 Ask me about
 **Machine Learning and Data Science**
-<iframe src="https://tenor.com/embed/22272437" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/3o7aCWwL00T7iuYQvC/giphy.gif" width="50%"> -->
+  <iframe src="https://tenor.com/embed/22272437" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### 📄 Experience
 Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
