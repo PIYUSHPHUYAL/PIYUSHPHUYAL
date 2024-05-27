@@ -29,7 +29,7 @@ All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL
 
 ### 💬 Ask me about
 **Machine Learning and Data Science**
-<div class="tenor-gif-embed" data-postid="22272437" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/adaptivity-ai-chatbot-gif-22272437">Adaptivity Ai Sticker</a>from <a href="https://tenor.com/search/adaptivity-stickers">Adaptivity Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://tenor.com/embed/22272437" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
 
 ### 📄 Experience
 Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
