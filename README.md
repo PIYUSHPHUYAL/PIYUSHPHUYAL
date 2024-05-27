@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://piyushphuyallovestoblog.com" target="_blank">
+  <a href="https://piyushphuyal.lovestoblog.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
   <a href="mailto:piyushphuyal77@gmail.com">
@@ -14,7 +14,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/piyush-phuyal-5b1418304/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
