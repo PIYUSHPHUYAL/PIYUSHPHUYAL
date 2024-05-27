@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Piyush;A+Serious+and+Curious+AI%2FML+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Piyush;A+Serious+and+Curious+AI%2FML+Enthusiast&center=true&size=27" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://piyushphuyallovestoblog.com" target="_blank">
@@ -11,19 +11,27 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/piyush-phuyal-5b1418304/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ---
 
 ### 👨‍💻 Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/code.gif" width="50%">
+</div>
+
 All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL?tab=repositories)
 
 ### 💬 Ask me about
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCWwL00T7iuYQvC/giphy.gif" width="50%">
+</div>
+
 **Machine Learning and Data Science**
 
 ### 📄 Experience
@@ -59,3 +67,7 @@ Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/animation.gif" width="50%">
+</div>
