@@ -12,14 +12,15 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/piyush-phuyal-5b1418304/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo" />
   </a>
 </div>
 
 ---
 
 ### 👨‍💻 Projects
+
 <div align="center">
   <img src="https://media.tenor.com/images/b9d8edab1b67b0457abfb16db89e6054/tenor.gif" width="50%">
 </div>
@@ -27,12 +28,17 @@
 All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL?tab=repositories)
 
 ### 💬 Ask me about
-**Machine Learning and Data Science**
+
 <div align="center">
   <img src="https://media.tenor.com/CoOOvc2jbvsAAAAi/adaptivity-ai.gif" width="50%">
 </div>
 
+**Machine Learning and Data Science**
+
+I'm passionate about Machine Learning and Data Science, and I love exploring new techniques and algorithms in these fields. Feel free to ask me about topics like deep learning, natural language processing, computer vision, and data analysis.
+
 ### 📄 Experience
+
 Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
 
 ### 🛠️ Languages and Tools
@@ -65,6 +71,18 @@ Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
+
+### 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHPHUYAL&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Piyush's GitHub Streak Stats" />
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHPHUYAL&show_icons=true&theme=dark" alt="Piyush's GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/animation.gif" width="50%">
