@@ -30,8 +30,9 @@ All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL
 ### 💬 Ask me about
 **Machine Learning and Data Science**
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmExZ2V0cWM4a2o1aXc4eWVwNjlrbDl2bGl4bTJ5anVoNG0wdzFwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U0IbLd9eLAPNMEGfGy/giphy.gif" width="50%">
+  <img src="https://media.tenor.com/CoOOvc2jbvsAAAAi/adaptivity-ai.gif" width="50%">
 </div>
+
 ### 📄 Experience
 Know about my experiences at [click here](https://piyushphuyal.lovestoblog.com)
 
