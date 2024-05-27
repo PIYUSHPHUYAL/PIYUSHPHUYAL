@@ -13,13 +13,13 @@
 ---
 
 ### 👨‍💻 Projects
-All of my projects are available at [piyushphuyallovestoblog.com](https://piyushphuyallovestoblog.com)
+All of my projects are available at [piyushphuyallovestoblog.com](https://github.com/PIYUSHPHUYAL?tab=repositories)
 
 ### 💬 Ask me about
 **Machine Learning and Data Science**
 
 ### 📄 Experience
-Know about my experiences at [piyushphuyallovestoblog.com](https://piyushphuyallovestoblog.com)
+Know about my experiences at [piyushphuyallovestoblog.com](https://piyushphuyal.lovestoblog.com)
 
 ---
 
