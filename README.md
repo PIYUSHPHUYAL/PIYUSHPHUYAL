@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Projects
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/code.gif" width="50%">
+  <img src="https://media.tenor.com/images/b9d8edab1b67b0457abfb16db89e6054/tenor.gif" width="50%">
 </div>
 
 All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL?tab=repositories)
