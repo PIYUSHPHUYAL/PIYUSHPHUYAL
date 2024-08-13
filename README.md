@@ -35,7 +35,7 @@ All of my projects are available at [click here](https://github.com/PIYUSHPHUYAL
 
 **Machine Learning and Data Science**
 
-I'm passionate about Machine Learning and Data Science, and I love exploring new techniques and algorithms in these fields. Feel free to ask me about topics like deep learning, natural language processing, computer vision, and data analysis.
+I'm passionate about Computer Vision and Machine Learning , and I love exploring new techniques and algorithms in these fields. Feel free to ask me about topics like deep learning, natural language processing, computer vision, and data analysis.
 
 ### 📄 Experience
 
