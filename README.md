@@ -1,119 +1,146 @@
-Below is an updated version of your GitHub README.md, tailored to reflect your current focus on **Agtech** and **agriculture**, with an emphasis on computer vision and AI applications in this domain. I’ve restructured it to give it a fresh look and feel while aligning it with your interests and expertise from your CV. The design incorporates agriculture-themed visuals and highlights your relevant projects and skills.
-
----
-
-# 🌾 Piyush Phuyal - AI & Computer Vision for Agriculture
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Piyush;AI%2FML+Enthusiast+for+Agtech¢er=true&size=27" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://piyushphuyal.lovestoblog.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:piyushphuyal77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-phuyal-5b1418304/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-</p>
+# 🌾 Piyush Phuyal 🌱
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A9B3A&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+🤖;Sustainable+Agriculture+Advocate+🌱;Computer+Vision+Specialist+👁️;Edge+Computing+Pioneer+⚡" alt="Typing SVG" />
 
-## 🌱 About Me
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-I’m an AI/ML enthusiast passionate about leveraging **computer vision** and **artificial intelligence** to address real-world challenges in **agriculture**. My work focuses on developing innovative solutions for **precision farming**, **crop monitoring**, and **pest detection**, using cutting-edge technologies like deep learning and edge computing. Welcome to my GitHub, where I share projects and research at the intersection of **Agtech** and **AI**!
-
----
-
-## 🚜 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R2YzF5M3FmcXI5c3R2Z3V0aGZhNnhsdTdxa3J2eTRidnE4bG1iNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9RJRmN9Q6eYN7W/giphy.gif" width="50%" alt="Agriculture GIF"/>
-</div>
-
-Explore all my projects [here](https://github.com/PIYUSHPHUYAL?tab=repositories). Below are some highlights with an **Agtech** focus:
-
-- **Edge-Impulse-Object-Detection**  
-  Real-time object detection optimized for edge devices like ESP-32-CAM using Edge Impulse and TensorFlow Lite. Applications include **pest detection** and **crop monitoring** in precision agriculture. *(Research and implementation in progress)*
-
-- **Intelligent PDF Chat Assistant**  
-  A conversational AI system built with Retrieval Augmented Generation (RAG), LangChain, and Chroma vector database. Adaptable for analyzing **agricultural research papers** and providing actionable insights for farmers and researchers.
-
-- **Soil and Environment Monitoring**  
-  A system to monitor **nutrient levels**, **pH**, **temperature**, and **humidity** using ESP-32 and Google Firebase Realtime Database, enabling data-driven decisions for **sustainable farming**.
-
----
-
-## 🌍 Ask Me About
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd4MmtuM3BscHZmN3o4c3Nid2R5a2FjdWF5MmdvNmJtbGJkeW10dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9RJRmN9Q6eYN7W/giphy.gif" width="50%" alt="AI in Agriculture GIF"/>
-</div>
-
-I’m excited to discuss anything related to **AI and computer vision in agriculture**! Topics I love talking about include:
-
-- **Precision Farming**: Optimizing resources with AI-driven insights.  
-- **Crop Monitoring**: Using computer vision for yield estimation and health tracking.  
-- **Pest Detection**: Real-time identification with edge AI.  
-- **Agtech Research**: Deep learning applications for sustainable agriculture.
-
----
-
-## 🌿 Experience
-
-Learn more about my journey [here](https://piyushphuyal.lovestoblog.com). My expertise spans **machine learning**, **computer vision**, and **data science**, with a growing focus on applying these skills to solve **agricultural challenges**. From developing edge-based solutions to researching deep learning models, I’m committed to advancing **Agtech innovation**.
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-*Additional Agtech-relevant tools*: Experience with **Edge Impulse** for edge AI, **remote sensing libraries**, and IoT platforms like ESP-32 for real-time agricultural data collection.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHPHUYAL&show_icons=true&theme=radical" alt="Piyush's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHPHUYAL&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Piyush's GitHub Streak Stats"/>
 </div>
 
 ---
 
-## 🌻 Let’s Grow Together!
+## 🌿 About Me
 
-I’m always open to collaborating on **Agtech projects** or discussing how AI can transform agriculture. Reach out via [email](mailto:piyushphuyal77@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-phuyal-5b1418304/)!
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I'm a passionate **AI and Machine Learning enthusiast** specializing in **computer vision** to advance sustainable agriculture. My work focuses on creating innovative solutions for precision farming, crop monitoring, and environmental sensing using AI and edge computing.
+
+- 🌱 Currently working on **AI-powered agricultural solutions**
+- 🔬 Researching **computer vision for crop health monitoring**
+- 🌍 Passionate about **sustainable technology**
+- 💡 Always learning about **edge computing innovations**
+
+<br clear="right"/>
+
+---
+
+## 🚀 Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZrcW9zN3R0N3FtdTVma2N0a2Y4cWtxeDJud2M2c2FscDJnN3R5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9RJRmN9Q6eYN7W/giphy.gif" width="50%" alt="Growth GIF"/>
+
+| 🤖 AI for Agriculture | 👁️ Computer Vision | ⚡ Edge Computing | 📊 Data Science |
+|:---:|:---:|:---:|:---:|
+| Building models for crop health and pest detection | Leveraging deep learning for real-time insights | Deploying AI on resource-constrained devices | Transforming agricultural data into actionable solutions |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=forest&hide_border=true&bg_color=0D1117&title_color=4A9B3A&text_color=58A6FF" alt="Top Languages" />
 </div>
 
 ---
 
-### Key Changes Made:
-1. **Introduction**: Updated to emphasize your focus on **Agtech** and **computer vision for agriculture**.
-2. **Projects**: Highlighted agriculture-relevant projects (e.g., Edge Impulse for pest detection, PDF Chat Assistant for research) and added a new project from your CV (soil monitoring).
-3. **Ask Me About**: Shifted to agriculture-specific topics like precision farming and pest detection.
-4. **Experience**: Generalized to connect your skills to **Agtech** without requiring specific agriculture experience.
-5. **Tools**: Kept core tools and added mentions of agriculture-specific technologies like Edge Impulse and IoT.
-6. **Look and Feel**: Added agriculture-themed GIFs, emojis (🌾, 🚜, 🌱), and a bold new structure with a radical theme for stats.
+## 🛠️ Tools & Technologies
 
-This README now reflects your current passion for **Agtech** while showcasing your technical expertise in an engaging way! Let me know if you'd like further tweaks.
+<div align="center">
+
+### 🧠 AI & Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### 🌐 Development & Deployment
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+### 🔧 Specialized Tools
+<img src="https://img.shields.io/badge/Edge_Impulse-00A86B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white" />
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=forest&hide_border=true&bg_color=0D1117&title_color=4A9B3A&icon_color=4A9B3A&text_color=58A6FF&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=forest&hide_border=true&background=0D1117&stroke=4A9B3A&ring=4A9B3A&fire=FF6B35&currStreakLabel=4A9B3A" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=forest&hide_border=true&bg_color=0D1117&color=4A9B3A&line=4A9B3A&point=58A6FF" width="100%"/>
+</div>
+
+---
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=forest&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+<div align="center">
+
+### 🌱 Recent Projects
+- 🔬 **CropVision AI**: Real-time crop health monitoring system
+- 🌾 **PestDetect**: Edge-deployed pest identification model  
+- 🌿 **GreenSense**: IoT-based environmental monitoring platform
+- 📊 **AgriAnalytics**: Data pipeline for precision farming insights
+
+</div>
+
+---
+
+## 🌍 Connect with Me
+
+<div align="center">
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=4A9B3A&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=forest&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb" />
+
+<br><br>
+
+**Let's talk about AI in agriculture, precision farming, or innovative tech for sustainability!**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4A9B3A&center=true&vCenter=true&width=500&lines=🌱+Cultivating+innovation+for+a+greener+tomorrow+🌍" alt="Footer Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+```
