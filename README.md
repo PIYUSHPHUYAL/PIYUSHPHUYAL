@@ -35,9 +35,6 @@ I'm a passionate **AI and Machine Learning enthusiast** specializing in **comput
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=forest&hide_border=true&bg_color=0D1117&title_color=4A9B3A&text_color=58A6FF" alt="Top Languages" />
-</div>
 
 ---
 
@@ -88,11 +85,6 @@ I'm a passionate **AI and Machine Learning enthusiast** specializing in **comput
 
 <div align="center">
 
-### 🌱 Recent Projects
-- 🔬 **CropVision AI**: Real-time crop health monitoring system
-- 🌾 **PestDetect**: Edge-deployed pest identification model  
-- 🌿 **GreenSense**: IoT-based environmental monitoring platform
-- 📊 **AgriAnalytics**: Data pipeline for precision farming insights
 
 </div>
 
