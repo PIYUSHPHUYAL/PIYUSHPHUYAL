@@ -64,31 +64,8 @@ I'm a passionate **AI and Machine Learning enthusiast** specializing in **comput
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=forest&hide_border=true&bg_color=0D1117&title_color=4A9B3A&icon_color=4A9B3A&text_color=58A6FF&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=forest&hide_border=true&background=0D1117&stroke=4A9B3A&ring=4A9B3A&fire=FF6B35&currStreakLabel=4A9B3A" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=forest&hide_border=true&bg_color=0D1117&color=4A9B3A&line=4A9B3A&point=58A6FF" width="100%"/>
-</div>
-
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=forest&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-<div align="center">
 
 
-</div>
-
----
 
 ## 🌍 Connect with Me
 
